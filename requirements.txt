@@ -1,0 +1,6 @@
+langchain-core>=1,<2
+langchain-ollama>=1,<2
+langchain-chroma>=1,<2
+langchain-text-splitters>=1,<2
+streamlit>=1.40,<2
+pypdf>=5,<7

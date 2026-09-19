@@ -1,0 +1,10 @@
+{
+  "db_dir": "chroma_20260919_101703_703435",
+  "embed_model": "bge-m3",
+  "collection": "class_rag",
+  "chunk_count": 69,
+  "source": "[별표 1] 입원환자의 질병군별 질병의 종류(제3조제1항 관련)(상급종합병원의 지정 및 평가 규정).pdf",
+  "pdf_sha256": "841e6a3e6445ad07cde06b6f225c88934d0ad59b080c5efd343054ccb90ec667",
+  "chunk_size": 700,
+  "chunk_overlap": 100
+}
